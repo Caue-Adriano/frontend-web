@@ -17,15 +17,20 @@ git config --global user.email [seu email sem as chaves]
 ```
 
 ```
-#verificar status dos arquivos
+#Verificar status dos arquivos
 
 git status
 ```
 
 ```
+#Comandos para commitar
 git add .
+
+git commit -m "descrição do commit"
 ```
 
 ```
-git commit -m "descrição do commit"
+#Publicar todos commits(Mandar para o repositório na web)
+
+git push
 ```

@@ -30,6 +30,11 @@ git commit -m "descrição do commit"
 ```
 
 ```
+
+git remote add origin 
+```
+
+```
 #Publicar todos commits(Mandar para o repositório na web)
 
 git push
